@@ -1,0 +1,1 @@
+https://git.gitbook.com/totoro0901/japanese.git

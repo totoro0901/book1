@@ -1,8 +1,10 @@
 # Summary
 
 * [简介](README.md)
-* [第一章 gitbook简介](file/gitbook简介.md)
-    * [1.1 gitbook介绍](file/gitbook介绍.md)
-* [第二章 gitbook使用](file/gitbook使用.md)
-    * [2.1 gitbook-cli下载](file/gitbook-cli下载.md)
+* [第一章](section1/README.md)
+	* [第一节](section1/example1.md)
+	* [第二节](section1/example2.md)
+* [第二章](section2/README.md)
+	* [第一节](section2/example2.md)
+
 
